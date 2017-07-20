@@ -1,0 +1,76 @@
+.survey {
+    margin: 0 auto;
+    width: 80%;
+    overflow: auto;
+    margin-bottom: 5%;
+}
+
+.survey_header {
+    padding: 2%;
+}
+
+.survey_details {
+    padding: 2%;
+}
+
+.surveys_list_header {
+    padding: 2%;
+}
+
+.surveys_list_details {
+    padding: 2%;
+}
+
+.survey_view {
+    padding: 3%;
+    border-color: darkblue;
+    border-style: solid;
+    margin-bottom: 1%;
+}
+
+.home {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.results {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.results_header {
+    padding: 2%;
+}
+
+.results_details {
+    padding: 2%;
+}
+
+.survey_view_header {
+    margin-bottom: 5%;
+}
+
+.survey_view:hover {
+    background-color: darkgrey;
+}
+
+.survey_view_header:hover {
+    background-color: darkgrey;
+}
+
+.red {
+    /*background: red;*/
+    border-color: red !important;
+}
+
+.red-label{
+    color: red!important;
+}
+
+.green-label{
+    color: green!important;
+}
+
+.green {
+    border-color: green !important;
+}

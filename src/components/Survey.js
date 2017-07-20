@@ -473,7 +473,7 @@ export class Survey extends React.Component {
                         <div className="form-group">
                             <label for="input4">Enter own comment</label>
                             <textarea onChange={this.handleChangeText} onBlur={this.onBlurText} id="input4"
-                                      className={classesText.join(' ')} placeholder="Type at lest 5 chars"/>
+                                      className={classesText.join(' ')} rows="5" placeholder="Type at lest 5 chars"/>
                             {
                                 textLabel
                             }

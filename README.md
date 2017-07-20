@@ -6,3 +6,6 @@ Survey app
 3. run: npm build
 4. run: npm install --save react-router-dom
 5. enjoy!
+
+example PESEL: 81100216357
+example NIP: 1234563218
